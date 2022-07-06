@@ -1,0 +1,41 @@
+header {
+    background-color: rgb(255, 179, 0);
+}
+
+h1 {
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 400px;
+}
+
+main {
+    background-color: deeppink;
+    margin-bottom: 400px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 1000px;
+    
+}
+
+p {
+    margin-right: 10px;
+    display: inline-block;
+    margin: 0;
+    padding-bottom: 10px;
+    background-color: #bac931;
+    border: solid 75px rgb(85, 169, 240);
+}
